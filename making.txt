@@ -1,0 +1,4 @@
+npx create-react-app stocks
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init
+npm install @heroicons/react recharts
